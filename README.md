@@ -27,8 +27,8 @@ A comprehensive Python pipeline that processes Arabic audio content from YouTube
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone (https://github.com/SultanKhalid92/Speech2text_arabic.git)
+cd Speech2text_arabic
 ```
 
 2. Install dependencies:
