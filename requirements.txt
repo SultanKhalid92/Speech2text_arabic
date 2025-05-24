@@ -1,0 +1,11 @@
+torch
+librosa
+noisereduce
+soundfile
+yt-dlp
+pyannote.audio
+transformers
+faster-whisper
+python-docx
+nltk
+pyyaml

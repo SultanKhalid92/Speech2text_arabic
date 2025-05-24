@@ -1,0 +1,7 @@
+youtube_url: "YOUTUBE_URL"
+audio_path: "audio.wav"
+clean_audio_path: "audio_denoised.wav"
+transcript_path: "transcript_whisper_large.txt"
+summary_path: "summary"
+hf_token: "YOUR_HUGGINGFACE_TOKEN"  # Replace with your HuggingFace token
+ffmpeg_location: "PATH_TO_FFMPEG"  # Path to your FFmpeg installation
